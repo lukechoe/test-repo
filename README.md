@@ -26,3 +26,7 @@ import x
 -----
 
 <input type="image" src="javascript:alert('XSS');"> attempt 4
+
+-----
+
+<li class="task-list-item"><input type="checkbox" id disabled class="task-list-item-checkbox" checked>" taskkkk"</li>
